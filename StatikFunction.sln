@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatikFunction", "StatikFun
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatikFunction2", "StatikFunction2\StatikFunction2.vcxproj", "{E1A04E10-3737-463F-9288-0B1C6131ED02}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor", "constructor\constructor.vcxproj", "{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E1A04E10-3737-463F-9288-0B1C6131ED02}.Release|x64.Build.0 = Release|x64
 		{E1A04E10-3737-463F-9288-0B1C6131ED02}.Release|x86.ActiveCfg = Release|Win32
 		{E1A04E10-3737-463F-9288-0B1C6131ED02}.Release|x86.Build.0 = Release|Win32
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Debug|x64.ActiveCfg = Debug|x64
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Debug|x64.Build.0 = Debug|x64
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Debug|x86.Build.0 = Debug|Win32
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Release|x64.ActiveCfg = Release|x64
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Release|x64.Build.0 = Release|x64
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Release|x86.ActiveCfg = Release|Win32
+		{2B3ABA0D-71A3-4D09-82AE-298CA90AE2EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
