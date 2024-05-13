@@ -31,3 +31,12 @@ void mahasiswa::printAll()
 	cout << "Nama = " << nama << endl;
 	cout << endl;
 }
+
+
+
+
+int main()
+{
+	mahasiswa mhs1("Lia Kurnia");
+	mahasiswa mhs2("Asroni");
+}
